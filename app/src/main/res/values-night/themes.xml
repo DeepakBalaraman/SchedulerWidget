@@ -1,4 +1,4 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources>
     <!-- Base application theme. -->
     <style name="Theme.ScheduleWidget" parent="Theme.Material3.DayNight">
         <!-- Primary brand color. -->
@@ -10,7 +10,20 @@
         <item name="colorSecondaryVariant">@color/teal_200</item>
         <item name="colorOnSecondary">@color/black</item>
         <!-- Status bar color. -->
-        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.ScheduleWidget.AppWidgetInnerView" parent="Theme.Material3.DynamicColors.Dark">
+        <item name="android:id">@android:id/background</item>
+        <item name="android:textColor">?attr/colorOnPrimaryContainer</item>
+        <item name="android:startColor">?attr/colorPrimaryContainer</item>
+        <item name="android:endColor">?attr/colorOnPrimary</item>
+    </style>
+
+    <style name="Theme.ScheduleWidget.AppWidgetHeader" parent="Theme.ScheduleWidget.AppWidgetInnerView">
+        <item name="android:textColor">?attr/colorTertiary</item>
+        <item name="android:startColor">?attr/colorTertiaryContainer</item>
+        <item name="android:endColor">?attr/colorOnTertiary</item>
     </style>
 </resources>

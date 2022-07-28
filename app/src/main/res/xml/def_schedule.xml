@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:key="d0"
+        android:defaultValue="TT" />
+    <EditTextPreference
+        android:key="d1"
+        android:defaultValue="1" />
+    <EditTextPreference
+        android:key="d2"
+        android:defaultValue="2" />
+    <EditTextPreference
+        android:key="d3"
+        android:defaultValue="3" />
+    <EditTextPreference
+        android:key="d4"
+        android:defaultValue="4" />
+    <EditTextPreference
+        android:key="d5"
+        android:defaultValue="5" />
+    <EditTextPreference
+        android:key="d6"
+        android:defaultValue="6" />
+    <EditTextPreference
+        android:key="d7"
+        android:defaultValue="7" />
+
+    <EditTextPreference
+        android:key="d8"
+        android:defaultValue="Mon" />
+    <EditTextPreference
+        android:key="d9"
+        android:defaultValue="TOC" />
+    <EditTextPreference
+        android:key="d10"
+        android:defaultValue="PCD" />
+    <EditTextPreference
+        android:key="d11"
+        android:defaultValue="IoT" />
+    <EditTextPreference
+        android:key="d12"
+        android:defaultValue="BES" />
+    <EditTextPreference
+        android:key="d13"
+        android:defaultValue="DBMS" />
+    <EditTextPreference
+        android:key="d14"
+        android:defaultValue="C++" />
+    <EditTextPreference
+        android:key="d15"
+        android:defaultValue="Py" />
+
+    <EditTextPreference
+        android:key="d16"
+        android:defaultValue="Tue" />
+    <EditTextPreference
+        android:key="d17"
+        android:defaultValue="C++" />
+    <EditTextPreference
+        android:key="d18"
+        android:defaultValue="DBMS" />
+    <EditTextPreference
+        android:key="d19"
+        android:defaultValue="Py" />
+    <EditTextPreference
+        android:key="d20"
+        android:defaultValue="TOC" />
+    <EditTextPreference
+        android:key="d21"
+        android:defaultValue="BES" />
+    <EditTextPreference
+        android:key="d22"
+        android:defaultValue="PCD" />
+    <EditTextPreference
+        android:key="d23"
+        android:defaultValue="IoT" />
+
+    <EditTextPreference
+        android:key="d24"
+        android:defaultValue="Wed" />
+    <EditTextPreference
+        android:key="d25"
+        android:defaultValue="IoT" />
+    <EditTextPreference
+        android:key="d26"
+        android:defaultValue="BES" />
+    <EditTextPreference
+        android:key="d27"
+        android:defaultValue="PCD" />
+    <EditTextPreference
+        android:key="d28"
+        android:defaultValue="Py" />
+    <EditTextPreference
+        android:key="d29"
+        android:defaultValue="C++" />
+    <EditTextPreference
+        android:key="d30"
+        android:defaultValue="TOC" />
+    <EditTextPreference
+        android:key="d31"
+        android:defaultValue="VLSI" />
+
+    <EditTextPreference
+        android:key="d32"
+        android:defaultValue="Thu" />
+    <EditTextPreference
+        android:key="d33"
+        android:defaultValue="DBMS" />
+    <EditTextPreference
+        android:key="d34"
+        android:defaultValue="VLSI" />
+    <EditTextPreference
+        android:key="d35"
+        android:defaultValue="IoT" />
+    <EditTextPreference
+        android:key="d36"
+        android:defaultValue="C++" />
+    <EditTextPreference
+        android:key="d37"
+        android:defaultValue="Py" />
+    <EditTextPreference
+        android:key="d38"
+        android:defaultValue="BES" />
+    <EditTextPreference
+        android:key="d39"
+        android:defaultValue="PCD" />
+
+    <EditTextPreference
+        android:key="d40"
+        android:defaultValue="Fri" />
+    <EditTextPreference
+        android:key="d41"
+        android:defaultValue="PCD" />
+    <EditTextPreference
+        android:key="d42"
+        android:defaultValue="C++" />
+    <EditTextPreference
+        android:key="d43"
+        android:defaultValue="Py" />
+    <EditTextPreference
+        android:key="d44"
+        android:defaultValue="Proj" />
+    <EditTextPreference
+        android:key="d45"
+        android:defaultValue="WTL" />
+    <EditTextPreference
+        android:key="d46"
+        android:defaultValue="CDL" />
+    <EditTextPreference
+        android:key="d47"
+        android:defaultValue="OSL" />
+
+</androidx.preference.PreferenceScreen>

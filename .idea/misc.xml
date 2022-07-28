@@ -3,12 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Android Projects/SchedulerWidget/app/src/main/res/drawable-v21/app_widget_background.xml" value="0.147" />
+        <entry key="..\:/Android Projects/SchedulerWidget/app/src/main/res/drawable-v21/app_widget_inner_view_background.xml" value="0.147" />
+        <entry key="..\:/Android Projects/SchedulerWidget/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Android Projects/SchedulerWidget/app/src/main/res/layout/hours_layout.xml" value="0.18127404873877725" />
+        <entry key="..\:/Android Projects/SchedulerWidget/app/src/main/res/layout/time_table_widget.xml" value="0.22" />
+        <entry key="..\:/Android Projects/SchedulerWidget/app/src/main/res/xml/def_schedule.xml" value="0.1" />
         <entry key="..\:/ScheduleWidget/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
         <entry key="..\:/ScheduleWidget/app/src/main/res/layout/time_table_widget.xml" value="0.176" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
